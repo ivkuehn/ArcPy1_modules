@@ -6,8 +6,8 @@
 # John.Fay@duke.edu (for ENV 859)
 
 # User Input variables
-treeType = "loblolly"   # Type of tree
-treeAge = 8             # Age of tree
+treeType = "oak"   # Type of tree
+treeAge = 20             # Age of tree
 
 # Script variables
 stockRateDict = {} # Stocking rate at 0,5,10,15,20 years in m tons C/acre
