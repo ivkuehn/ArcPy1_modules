@@ -22,3 +22,5 @@ print (sqrt(25))
 #%% Remove reference to a specific module from your script/session
 del path, np
 dir(path) # <-- this will now give you an error
+
+# %%
